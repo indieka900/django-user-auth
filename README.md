@@ -185,6 +185,7 @@ This is a simple Django project that implements an authentication system using J
 
 - **Endpoint:** `/api/users/profile/`
 - **Method:** `PUT` `PATCH`
+*Differentiate between PUT and PATCH*
 - **Headers:**
   - `Authorization: Bearer <access_token>`
   - `Content-Type: application/json`
@@ -194,6 +195,7 @@ This is a simple Django project that implements an authentication system using J
   {
     "bio": "string",
     "first_name": "string",
+    ...
   }
   ```
 
@@ -204,7 +206,7 @@ This is a simple Django project that implements an authentication system using J
     "id": 1,
     "username": "string",
     "email": "string",
-    ....
+    ...
     }
     ```
 
