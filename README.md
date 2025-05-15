@@ -11,8 +11,6 @@ This is a simple Django project that implements an authentication system using J
 - User profile update
 - Password change
 - User deletion
-- User activation
-- User deactivation
 - User list retrieval
 
 ## Requirements
@@ -270,3 +268,12 @@ This is a simple Django project that implements an authentication system using J
     ...
   ]
   ```
+
+## Contact
+
+For any questions or issues, please contact
+
+- Email : <indiekaj@gmail.com>
+- Phone : +254 713 283 900
+
+*This project is developed and maintained by [Joseph Indieka](https://www.linkedin.com/in/joseph-indieka-221557345)*
